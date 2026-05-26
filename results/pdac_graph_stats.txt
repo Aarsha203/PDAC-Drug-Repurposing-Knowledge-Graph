@@ -1,0 +1,66 @@
+
+───────────────────────────────────────────────────────
+  FULL GRAPH
+───────────────────────────────────────────────────────
+  Nodes           : 120
+  Edges           : 924
+  Density         : 0.072829
+  Avg degree      : 8.667
+  Max degree node : DOID:1793 (deg=100)
+  Components      : 6
+  LCC size        : 107
+
+  Node types:
+    Disease             : 1
+    Protein             : 109
+    Drug                : 10
+
+  Edge types:
+    gene-disease             : 100
+    protein-protein          : 808
+    drug-target              : 16
+
+  Top 10 hub nodes (by degree):
+    Pancreatic ductal adenocarcinoma: 100
+    ATM                 : 39
+    TP53                : 35
+    BRCA2               : 35
+    BRCA1               : 32
+    KRAS                : 31
+    POLE                : 31
+    CDKN2A              : 28
+    POLD1               : 28
+    SMAD4               : 27
+
+───────────────────────────────────────────────────────
+  PDAC SUBGRAPH
+───────────────────────────────────────────────────────
+  Nodes           : 107
+  Edges           : 916
+  Density         : 0.090284
+  Avg degree      : 9.57
+  Max degree node : DOID:1793 (deg=100)
+  Components      : 1
+  LCC size        : 107
+
+  Node types:
+    Disease             : 1
+    Protein             : 101
+    Drug                : 5
+
+  Edge types:
+    gene-disease             : 100
+    protein-protein          : 808
+    drug-target              : 8
+
+  Top 10 hub nodes (by degree):
+    Pancreatic ductal adenocarcinoma: 100
+    ATM                 : 39
+    TP53                : 35
+    BRCA2               : 35
+    BRCA1               : 32
+    KRAS                : 31
+    POLE                : 31
+    CDKN2A              : 28
+    POLD1               : 28
+    SMAD4               : 27

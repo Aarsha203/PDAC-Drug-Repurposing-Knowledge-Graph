@@ -1,0 +1,17 @@
+drug_chembl_id,drug_name,target_uniprot_id,target_chembl_id,target_name,pchembl_value,activity_type,activity_value,activity_units,assay_id,source
+CHEMBL1421,Erlotinib,P00533,CHEMBL_EGFR,EGFR,9.4,IC50,,nM,demo,Demo/Literature
+CHEMBL1421,Erlotinib,P04626,CHEMBL_ERBB2,ERBB2,7.1,IC50,,nM,demo,Demo/Literature
+CHEMBL2153184,Osimertinib,P00533,CHEMBL_EGFR,EGFR,10.1,IC50,,nM,demo,Demo/Literature
+CHEMBL1421,Erlotinib,P01116,CHEMBL_KRAS,KRAS,5.9,IC50,,nM,demo,Demo/Literature
+CHEMBL1213492,Gemcitabine,P23921,CHEMBL_RRM1,RRM1,6.2,IC50,,nM,demo,Demo/Literature
+CHEMBL472,Imatinib,P08581,CHEMBL_MET,MET,8.1,IC50,,nM,demo,Demo/Literature
+CHEMBL888,Sorafenib,P15056,CHEMBL_BRAF,BRAF,8.5,IC50,,nM,demo,Demo/Literature
+CHEMBL888,Sorafenib,P15692,CHEMBL_VEGFA,VEGFA,7.4,IC50,,nM,demo,Demo/Literature
+CHEMBL1229517,Everolimus,P42345,CHEMBL_MTOR,MTOR,9.3,IC50,,nM,demo,Demo/Literature
+CHEMBL1229517,Everolimus,P31749,CHEMBL_AKT1,AKT1,7.8,IC50,,nM,demo,Demo/Literature
+CHEMBL3707323,Olaparib,P51587,CHEMBL_BRCA2,BRCA2,8.9,IC50,,nM,demo,Demo/Literature
+CHEMBL3707323,Olaparib,Q86YC2,CHEMBL_PALB2,PALB2,7.5,IC50,,nM,demo,Demo/Literature
+CHEMBL25,Aspirin,P35354,CHEMBL_PTGS2,PTGS2,6.4,IC50,,nM,demo,Demo/Literature
+CHEMBL185698,Niraparib,Q13315,CHEMBL_ATM,ATM,7.1,IC50,,nM,demo,Demo/Literature
+CHEMBL3545210,Palbociclib,P11802,CHEMBL_CDK4,CDK4,9.8,IC50,,nM,demo,Demo/Literature
+CHEMBL3545210,Palbociclib,P52564,CHEMBL_CDK6,CDK6,9.5,IC50,,nM,demo,Demo/Literature

@@ -1,0 +1,101 @@
+gene_id,gene_symbol,gene_name,score,disease_id,disease_name,source
+ENSG00000133703,KRAS,"KRAS proto-oncogene, GTPase",0.8156,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000141510,TP53,tumor protein p53,0.8077,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000141646,SMAD4,SMAD family member 4,0.7851,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000083093,PALB2,partner and localizer of BRCA2,0.7847,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000139618,BRCA2,BRCA2 DNA repair associated,0.7734,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000118046,STK11,serine/threonine kinase 11,0.7593,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000147889,CDKN2A,cyclin dependent kinase inhibitor 2A,0.7295,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000062822,POLD1,"DNA polymerase delta 1, catalytic subunit",0.7209,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000149311,ATM,ATM serine/threonine kinase,0.6984,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000012048,BRCA1,BRCA1 DNA repair associated,0.6803,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000108375,RNF43,ring finger protein 43,0.6803,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000177084,POLE,"DNA polymerase epsilon, catalytic subunit",0.676,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000117713,ARID1A,AT-rich interaction domain 1A,0.6499,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000163513,TGFBR2,transforming growth factor beta receptor 2,0.6251,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000135503,ACVR1B,activin A receptor type 1B,0.6222,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000087460,GNAS,GNAS complex locus,0.6118,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000055609,KMT2C,lysine methyltransferase 2C,0.6,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000171848,RRM2,ribonucleotide reductase regulatory subunit M2,0.5887,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000182872,RBM10,RNA binding motif protein 10,0.5876,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000167325,RRM1,ribonucleotide reductase catalytic subunit M1,0.5849,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000106628,POLD2,"DNA polymerase delta 2, accessory subunit",0.5839,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000146143,PRIM2,DNA primase subunit 2,0.583,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000175482,POLD4,"DNA polymerase delta 4, accessory subunit",0.5817,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000100479,POLE2,"DNA polymerase epsilon 2, accessory subunit",0.5806,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000048392,RRM2B,ribonucleotide reductase regulatory TP53 inducible subunit M2B,0.5802,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000198056,PRIM1,DNA primase subunit 1,0.5802,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000148229,POLE3,"DNA polymerase epsilon 3, accessory subunit",0.5802,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000014138,POLA2,"DNA polymerase alpha 2, accessory subunit",0.5802,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000077514,POLD3,"DNA polymerase delta 3, accessory subunit",0.5802,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000101868,POLA1,"DNA polymerase alpha 1, catalytic subunit",0.5802,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000183765,CHEK2,checkpoint kinase 2,0.577,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000147050,KDM6A,lysine demethylase 6A,0.5687,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000136492,BRIP1,BRCA1 interacting DNA helicase 1,0.5673,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000178568,ERBB4,erb-b2 receptor tyrosine kinase 4,0.5655,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000065559,MAP2K4,mitogen-activated protein kinase kinase 4,0.5646,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000121989,ACVR2A,activin A receptor type 2A,0.5593,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000196090,PTPRT,protein tyrosine phosphatase receptor type T,0.5478,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000168702,LRP1B,LDL receptor related protein 1B,0.5463,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000132155,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",0.5454,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000167548,KMT2D,lysine methyltransferase 2D,0.5372,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000257923,CUX1,cut like homeobox 1,0.5269,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000066468,FGFR2,fibroblast growth factor receptor 2,0.5249,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000146648,EGFR,epidermal growth factor receptor,0.5206,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000104320,NBN,nibrin,0.5115,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000101773,RBBP8,"RB binding protein 8, endonuclease",0.5083,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000115170,ACVR1,activin A receptor type 1,0.5077,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000166323,C11orf65,chromosome 11 open reading frame 65,0.507,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000140836,ZFHX3,zinc finger homeobox 3,0.5043,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000112039,FANCE,FA complementation group E,0.5018,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000105810,CDK6,cyclin dependent kinase 6,0.4957,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000085276,MECOM,MDS1 and EVI1 complex locus,0.4945,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000197157,SND1,staphylococcal nuclease and tudor domain containing 1,0.4943,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000198795,ZNF521,zinc finger protein 521,0.4938,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000144218,AFF3,ALF transcription elongation factor 3,0.4935,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000116833,NR5A2,nuclear receptor subfamily 5 group A member 2,0.4934,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000157388,CACNA1D,calcium voltage-gated channel subunit alpha1 D,0.4933,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000157168,NRG1,neuregulin 1,0.4861,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000140937,CDH11,cadherin 11,0.4851,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000109906,ZBTB16,zinc finger and BTB domain containing 16,0.4834,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000134371,CDC73,cell division cycle 73,0.4832,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000046889,PREX2,"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2",0.483,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000140538,NTRK3,neurotrophic receptor tyrosine kinase 3,0.4829,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000091831,ESR1,estrogen receptor 1,0.4827,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000171735,CAMTA1,calmodulin binding transcription activator 1,0.4825,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000151348,EXT2,exostosin glycosyltransferase 2,0.4825,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000152894,PTPRK,protein tyrosine phosphatase receptor type K,0.4825,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000182197,EXT1,exostosin glycosyltransferase 1,0.4825,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000073803,MAP3K13,mitogen-activated protein kinase kinase kinase 13,0.4812,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000157404,KIT,"KIT proto-oncogene, receptor tyrosine kinase",0.4799,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000198900,TOP1,DNA topoisomerase I,0.4795,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000113721,PDGFRB,platelet derived growth factor receptor beta,0.4783,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000176890,TYMS,thymidylate synthetase,0.478,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000175164,ABO,"ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase",0.4771,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000049618,ARID1B,AT-rich interaction domain 1B,0.4766,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000166949,SMAD3,SMAD family member 3,0.4762,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000138795,LEF1,lymphoid enhancer binding factor 1,0.4732,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000101096,NFATC2,nuclear factor of activated T cells 2,0.4719,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000141027,NCOR1,nuclear receptor corepressor 1,0.4715,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000127946,HIP1,huntingtin interacting protein 1,0.4701,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000183454,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,0.47,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000078403,MLLT10,MLLT10 histone lysine methyltransferase DOT1L cofactor,0.4697,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000112531,QKI,"QKI, KH domain containing RNA binding",0.4697,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000114861,FOXP1,forkhead box P1,0.4684,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000147257,GPC3,glypican 3,0.4677,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000189283,FHIT,fragile histidine triad diadenosine triphosphatase,0.4664,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000081237,PTPRC,protein tyrosine phosphatase receptor type C,0.4656,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000184384,MAML2,mastermind like transcriptional coactivator 2,0.4642,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000182185,RAD51B,RAD51 paralog B,0.4641,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000145012,LPP,LIM domain containing preferred translocation partner in lipoma,0.4638,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000148053,NTRK2,neurotrophic receptor tyrosine kinase 2,0.4637,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000153944,MSI2,musashi RNA binding protein 2,0.4635,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000145819,ARHGAP26,Rho GTPase activating protein 26,0.4632,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000164330,EBF1,EBF transcription factor 1,0.4626,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000152217,SETBP1,SET binding protein 1,0.4622,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000107779,BMPR1A,bone morphogenetic protein receptor type 1A,0.462,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000169083,AR,androgen receptor,0.4618,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000143322,ABL2,"ABL proto-oncogene 2, non-receptor tyrosine kinase",0.4612,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000187098,MITF,melanocyte inducing transcription factor,0.4598,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000198286,CARD11,caspase recruitment domain family member 11,0.4594,EFO_0002618,pancreatic carcinoma,OpenTargets
+ENSG00000070371,CLTCL1,clathrin heavy chain like 1,0.4594,EFO_0002618,pancreatic carcinoma,OpenTargets
